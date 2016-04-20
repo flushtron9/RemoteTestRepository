@@ -8,6 +8,8 @@ public class Main {
 		GitTest testObj = new GitTest();
 		testObj.showMessage();
 		
+		System.out.println("MID: Main method");
+		
 		System.out.println("END: Main method");
 
 	}
